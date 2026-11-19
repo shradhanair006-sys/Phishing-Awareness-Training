@@ -24,7 +24,7 @@ The Phishing Awareness Training Website is an interactive educational platform d
 4. Explore the website and test the interactive features.
 
 ## 🌐 Live Demo
-[Click here to visit the Phishing Awareness Training Website](ADD_YOUR_GITHUB_PAGES_LINK_HEREhttps://shradhanair006-sys.github.io/Phishing-Awareness-Training/)
+https://shradhanair006-sys.github.io/Phishing-Awareness-Training/
 
 ## 📁 Project Structure
 - `index.html` – Website structure and content.
